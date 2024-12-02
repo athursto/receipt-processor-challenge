@@ -1,0 +1,10 @@
+{
+    "retailer": "*****",
+    "purchaseDate": "2024-01-02",
+    "purchaseTime": "08:13",
+    "total": "2.0510",
+    "items": [
+        {"shortDescription": "Pepsi - 12-oz", "price": "1.0510"},
+        {"shortDescription": "Dasani", "price": "1.00"}
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "retailer": "Rite-Aid",
+    "purchaseDate": "2024-12-07",
+    "purchaseTime": "08:13",
+    "total": "3.50",
+    "items": [
+        {"shortDescription": "Pepsi - 12-oz", "price": "1.50"},
+        {"shortDescription": "Dasani", "price": "1.00"},
+        {"shortDescription": "LaCroix", "price": "1.00"}
+    ]
+}
